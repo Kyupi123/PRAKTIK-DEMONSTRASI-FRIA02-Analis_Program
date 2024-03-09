@@ -1,0 +1,1 @@
+ALTER TABLE sparepart ADD log_update VARCHAR(75);
